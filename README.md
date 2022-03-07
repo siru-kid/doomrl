@@ -3,7 +3,7 @@
 DRL a.k.a. doomrl, a.k.a, D**m, the Roguelike
 http://drl.chaosforge.org/
 
-This release is dedicated to *eniMax, and the Jupiter Hell Kickstarter:
+this is my file.................whaaaaaaaaaaaaa
 
 https://www.kickstarter.com/projects/2020043306/jupiter-hell-a-modern-turn-based-sci-fi-roguelike
 
